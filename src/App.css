@@ -461,6 +461,7 @@ nav a, nav a:visited{
   margin: 0; 
   font-size: 20px;
   padding: 1rem;
+  color: var(--secondary-color);
 }
 .information a:visited{
   color: var(--secondary-color);
