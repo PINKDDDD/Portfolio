@@ -380,7 +380,7 @@ nav a, nav a:visited{
   box-shadow: 0px 0px 40px -5px var(--shadow-color);
   -webkit-box-shadow: 0px 0px 40px -5px var(--shadow-color);
   -moz-box-shadow: 0px 0px 40px -5px var(--shadow-color);
-  left:1rem;
+  left:0.5rem;
 }
 .line:nth-child(2) .moretext,.line:nth-child(5) .moretext{
   width: 300px;
@@ -550,6 +550,9 @@ footer{
   .title_space {
     padding: 0 1rem 0 1rem;
   }
+  .title{
+    justify-content: unset;
+  }
   .hline{
       width:80vw;
   }
@@ -573,6 +576,9 @@ footer{
       left :80%;
       transform: translateX(-50%);
   }
+  .moretext{
+    left:0;
+  }
   .frontend_projects{
     display: flex;
     flex-direction: column;
@@ -594,8 +600,22 @@ footer{
   .data_title{
       margin:1rem auto;
   }
-
-  .nav-right, .mode-btn {
+  .project:hover{
+    height:42rem;
+  }
+  nav{
+    justify-content: unset;
+  }
+  .nav-right, .li_padding{
+    padding: 0;
+  }
+  .nav-right a{
+    padding-right: 0.5rem;
+  }
+  .fixed-icon-container{
+    position: unset;
+  }
+  .mode-btn {
     font-size: 12px; 
   }
 } 

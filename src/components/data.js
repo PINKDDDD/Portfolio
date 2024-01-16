@@ -80,13 +80,13 @@ export const information =   [
     {
         key:2,
         title:'Lab Assistant',
-        desc:"• Proof of Concept: Collaborated with senior partners to advance crawler function development in different static websites by adding different languages via Python, which improved working efficiency by 20%.• Function Expansion and Optimization: Implemented the new function development of the Arabic language crawler and optimized the word segmentation results via NLTK natural language processing.",
+        desc:"1.Crawler Function Advancement: Collaborated with senior partners to advance crawler function development in different static websites by adding different languages via Python, which improved working efficiency by 20%. 2.Arabic Language Crawler Optimization: Spearheaded the development of a new Arabic language crawler and optimized word segmentation results via NLTK natural language processing. Contributed to function expansion and enhancement at the Institute of Software Chinese Academy of Sciences.",
         time:'12/2020',
     },
     {
         key:3,
-        title:'Data Internship --ablibaba',
-        desc:'• User and Market Analysis: Analyzed the needs of the hardware of the desktop for target customers. Research the customers, needs with some interview questions.  • Design: Designed the online pc component store blueprint and completed related prototypes timely which included product searching, ranking, and key indicator comparison to facilitate customer decisions via Figma.• Product Design Development: Used Figma to draw 3d simulation scenarios based on customer installation conditions to offer a direct display for customers effectively.',
+        title:'Web Design --ablibaba',
+        desc:'1.Strategic User-Centric Analysis:Accomplished in-depth research on desktop hardware needs, utilizing customer interviews to inform design strategies effectively. 2.Comprehensive Design Blueprint Execution: Developed an online PC component store blueprint, focusing on user-centric design with advanced Figma prototypes. 3.Innovative 3D Simulation for UI Enhancement: Crafted detailed 3D simulations using Figma, providing a unique visual experience and enhancing the user interface at Alibaba Group.',
         time:'3/2021',
     },
     {
@@ -102,14 +102,14 @@ export const frontEndProjects = [
         key:1,
         title:'Java vacation List',
         media:js,
-        desc:'1. Utilized Figma for design, achieving a 40% faster development cycle and a visually cohesive user interface. 2.Enhanced user interaction and efficiency by developing a vanilla JavaScript-based CRUD web page, which streamlined the task management process, resulting in a 25% increase in user task completion. ',
+        desc:'1.Project Preparation and Execution: Utilized Figma for design, achieving a 40% faster development cycle and a visually cohesive user interface. 2.Web Development:Enhanced user interaction and efficiency by developing a vanilla JavaScript-based CRUD web page, which streamlined task management process, resulting in a 25% increase in user task completion.',
         link:'https://github.com/PINKDDDD/js-crud.git',
     },
     {
         key:2,
         title:'Portfolio React',
         media:web,
-        desc:'1. Revolutionized web presence by developing a dynamic, responsive portfolio website using HTML, CSS, and React, leading to a 30% surge in user engagement through enhanced features like adaptable light/dark mode and captivating CSS animations. 2.Expedited content updates by 40%, leveraging React for efficiency. 3. Used Heroku and GitHub to deploy the web.',
+        desc:'1.Frontend Development: Revolutionized web presence by developing a personalized, responsive portfolio website using HTML, CSS, and React, leading to a 30% surge in user engagement through enhanced features like adaptable light/dark mode and captivating CSS animations. 2.Data Handle:Expedited content updates by 40%, leveraging React for efficiency.',
         link:'https://github.com/PINKDDDD/Portfolio.git',
     },
 
